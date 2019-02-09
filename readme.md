@@ -1,0 +1,2 @@
+This is a Bookmark app, you can add bookmark any site here using their links. It will be saved until you clear the cache and local storage, this data are stored in your local computer using local storage function.
+This is pure JavaScript ❤
